@@ -1,5 +1,9 @@
 # Vite JS och TypeScript
 
+This is an introduction to Vite and Typescript. It also includes some information about node and nvm, but that's only interesting if you haven't downloaded those already.
+
+In the src-folder, there is an example of how we can use typescript.
+
 <details>
 <summary>Table of content</summary>
 
